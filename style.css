@@ -10,11 +10,11 @@
     display: none;  
 }
 .container{
-    font-size: 30px;
+    font-size: 31px;
     text-align: center;
 }
 .main-menu{
-    font-size: 30px;
+    font-size: 31px;
     text-align: center; 
 }
 @media (max-width: 481px){
